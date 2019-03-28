@@ -22,5 +22,4 @@ In this repository you will find two go files, one main.go which contains a skel
 We will run your application through a number of test cases not mentioned here and compare the output with an application that produces the correct output.
 
 Jimu Ryoo
-2019/03/16
 Lalamove intern tech challenge
