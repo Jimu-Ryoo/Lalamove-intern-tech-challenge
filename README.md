@@ -3,7 +3,7 @@
 This is from intern tech challenge, done in Golang.
 
 
-#Specification 
+# Specification 
 Simple application that gives us the highest patch version of every release between a minimum version and the highest released version. Written in Go, reads the Github Releases list, uses SemVer for comparison and takes a path to a file as its first argument when executed. It reads this file, which is in the format of:
 
 repository,min_version
